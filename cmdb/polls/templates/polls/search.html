@@ -2,14 +2,14 @@
 {% block title %}CMDB{% endblock %}
 {% block content %}
 
-
 <form action="search.html" class="navbar-form navbar-right" role="search" method="post">
     {% csrf_token %}
     {{ form }}
-  <button type="submit" class="btn btn-default">Submit</button>
+  <button type="submit" class="btn btn-default">Search</button>
 </form>
 
-{% if form %}
+
+{% if result %}
     <ul>
         <div >
             <table class="table table-hover">
@@ -20,19 +20,17 @@
                 <td>VIP</td>
                 <td>说明</td>
                 </tr>
-        {% for result in host_list %}
-                <td><a href="/polls/{{ host.id }}/">{{ host.hostname }}     </a></td>
-                <td>{{ result.ipaddress01 }} </td>
-                <td>{{ result.ipaddress02 }} </td>
-                <td>{{ result.vip }}         </td>
-                <td>{{ result.remark }}      </td>
-
+        {% for host in result %}
+                <td>{{ host.hostname }}    </td>
+                <td>{{ host.ipaddress01 }} </td>
+                <td>{{ host.ipaddress02 }} </td>
+                <td>{{ host.vip }}         </td>
+                <td>{{ host.remark }}      </td>
             </table>
         {% endfor %}
         </div>
     </ul>
-
 {% else %}
-    <p>No polls are available.</p>
+    <p></p>
 {% endif %}
 {% endblock %}

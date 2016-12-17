@@ -23,18 +23,19 @@ def results(request, host_id):
     return render(request, 'polls/results.html', {'host': host})
 
 
+
+
+
 def search(request):
     if request.method == 'POST':
         form = NameForm(request.POST)
         print(request.POST)
-        # print(result)
         if form.is_valid():
             name = form.cleaned_data['name']
-            print(name)
             result = Host.objects.filter(hostname__contains=name).values()
-            print(result)
+            return render(request,'polls/search.html',{'result':result})
     else:
         form = NameForm()
-        # result = Host.objects.get(hostname__contains=form)
-
     return render(request, 'polls/search.html', {'form': form})
+
+
