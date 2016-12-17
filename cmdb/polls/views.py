@@ -29,7 +29,6 @@ def results(request, host_id):
 def search(request):
     if request.method == 'POST':
         form = NameForm(request.POST)
-        print(request.POST)
         if form.is_valid():
             name = form.cleaned_data['name']
             result = Host.objects.filter(hostname__contains=name).values()

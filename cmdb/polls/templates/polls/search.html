@@ -5,32 +5,32 @@
 <form action="search.html" class="navbar-form navbar-right" role="search" method="post">
     {% csrf_token %}
     {{ form }}
-  <button type="submit" class="btn btn-default">Search</button>
+    <button type="submit" class="btn btn-default">Search</button>
 </form>
 
 
 {% if result %}
-    <ul>
-        <div >
-            <table class="table table-hover">
-                <tr>
-                <td>主机名</td>
-                <td>IP01</td>
-                <td>IP02</td>
-                <td>VIP</td>
-                <td>说明</td>
-                </tr>
-        {% for host in result %}
-                <td>{{ host.hostname }}    </td>
-                <td>{{ host.ipaddress01 }} </td>
-                <td>{{ host.ipaddress02 }} </td>
-                <td>{{ host.vip }}         </td>
-                <td>{{ host.remark }}      </td>
-            </table>
-        {% endfor %}
-        </div>
-    </ul>
+<div class="table-responsive ">
+    <table width="700" border="0.5" cellpadding="5" class="table table-hover">
+        <tr class="active">
+            <th width="80">主机名</th>
+            <th width="80">IP01</th>
+            <th width="80">IP02</th>
+            <th width="80">VIP</th>
+            <th width="80">说明</th>
+        </tr>
+    </table>
+    {% for host in result %}
+    <table width="700" border="0.5" cellpadding="5" class="table table-hover">
+        <td class="success" width="80">{{ host.hostname }}</td>
+        <td class="success" width="80">{{ host.ipaddress01 }}</td>
+        <td class="success" width="80">{{ host.ipaddress02 }}</td>
+        <td class="success" width="80">{{ host.vip }}</td>
+        <td class="success" width="80">{{ host.remark }}</td>
+    </table>
+    {% endfor %}
+</div>
 {% else %}
-    <p></p>
+<p>主机不存在，请重新输入</p>
 {% endif %}
 {% endblock %}

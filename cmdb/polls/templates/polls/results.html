@@ -1,9 +1,9 @@
 <h1>{{ host.hostname }}</h1>
 
 <ul>
-{% for choice in host.choice_set.all %}
-    <li>{{ choice.hosname }} </li>
-{% endfor %}
+    {% for choice in host.choice_set.all %}
+    <li>{{ choice.hosname }}</li>
+    {% endfor %}
 </ul>
 
 <a href="{% url 'polls:detail' host.id %}">Vote again?</a>

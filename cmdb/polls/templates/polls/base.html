@@ -11,19 +11,19 @@
 
 
 <body>
-    <div id="sidebar">
-        {% block sidebar %}
-        <ul  class="nav nav-pills  nav-justified"  role="tablist">
-            <li role="presentation" class="active"><a href="/polls/">Home</a></li>
-            <li role="presentation"><a href="/admin">Admin</a></li>
-            <li role="presentation"><a href="/polls/">CMDB</a></li>
-            <li role="presentation"><a href="search.html">Search</a></li>
-            <!--<li role="presentation"><a href="search_form.html">Search_Form</a></li>-->
-        </ul>
-        {% endblock %}
-    </div>
-    <div id="content">
-        {% block content %}{% endblock %}
-    </div>
+<div id="sidebar">
+    {% block sidebar %}
+    <ul class="nav nav-pills  nav-justified" role="tablist">
+        <li role="presentation" class="active"><a href="/polls/">Home</a></li>
+        <li role="presentation"><a href="/admin">Admin</a></li>
+        <li role="presentation"><a href="/polls/">CMDB</a></li>
+        <li role="presentation"><a href="search.html">Search</a></li>
+        <!--<li role="presentation"><a href="search_form.html">Search_Form</a></li>-->
+    </ul>
+    {% endblock %}
+</div>
+<div id="content">
+    {% block content %}{% endblock %}
+</div>
 </body>
 </html>
