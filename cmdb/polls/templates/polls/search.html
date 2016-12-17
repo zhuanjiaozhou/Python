@@ -1,0 +1,38 @@
+{% extends 'polls/base.html' %}
+{% block title %}CMDB{% endblock %}
+{% block content %}
+
+
+<form action="search.html" class="navbar-form navbar-right" role="search" method="post">
+    {% csrf_token %}
+    {{ form }}
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>
+
+{% if form %}
+    <ul>
+        <div >
+            <table class="table table-hover">
+                <tr>
+                <td>主机名</td>
+                <td>IP01</td>
+                <td>IP02</td>
+                <td>VIP</td>
+                <td>说明</td>
+                </tr>
+        {% for result in host_list %}
+                <td><a href="/polls/{{ host.id }}/">{{ host.hostname }}     </a></td>
+                <td>{{ result.ipaddress01 }} </td>
+                <td>{{ result.ipaddress02 }} </td>
+                <td>{{ result.vip }}         </td>
+                <td>{{ result.remark }}      </td>
+
+            </table>
+        {% endfor %}
+        </div>
+    </ul>
+
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
+{% endblock %}

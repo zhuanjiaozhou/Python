@@ -1,0 +1,30 @@
+{% extends 'polls/base.html' %}
+{% block title %}CMDB{% endblock %}
+{% block content %}
+{% if host_list %}
+    <ul>
+        <div >
+            <table class="table table-hover">
+                <tr>
+                <td>主机名</td>
+                <td>IP01</td>
+                <td>IP02</td>
+                <td>VIP</td>
+                <td>说明</td>
+                </tr>
+        {% for host in host_list %}
+                <td><a href="/polls/{{ host.id }}/">{{ host.hostname }}     </a></td>
+                <td>{{ host.ipaddress01 }} </td>
+                <td>{{ host.ipaddress02 }} </td>
+                <td>{{ host.vip }}         </td>
+                <td>{{ host.remark }}      </td>
+
+            </table>
+        {% endfor %}
+        </div>
+    </ul>
+
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
+{% endblock %}

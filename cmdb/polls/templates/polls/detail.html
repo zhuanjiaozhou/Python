@@ -1,0 +1,32 @@
+{% extends 'polls/base.html' %}
+{% block title %}CMDB{% endblock %}
+{% block content %}
+
+{% if error_message %}
+    <p><strong>{{ error_message }}</strong></p>
+{% endif %}
+
+
+{% for position in host.position_set.all %}
+{% for operate in host.operate_set.all %}
+<ul>
+    <div >
+        <table class="table table-hover">
+            <tr>
+                <td>主机名</td>
+                <td>位置</td>
+                <td>操作日志</td>
+                <td>日期</td>
+            </tr>
+            <tr>
+                <td>{{ host }}  </td>
+                <td>{{ position }} </td>
+                <td>{{ operate }} </td>
+                <td>{{ operate.timestamp |date:"Y-m-d" }} </td>
+            </tr>
+        </table>
+    </div>
+</ul>
+{% endfor %}
+{% endfor %}
+{% endblock %}
