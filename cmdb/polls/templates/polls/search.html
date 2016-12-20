@@ -1,15 +1,8 @@
 {% extends 'polls/base.html' %}
 {% block title %}CMDB{% endblock %}
 {% block content %}
-
-<form action="search.html" class="navbar-form navbar-right" role="search" method="post">
-    {% csrf_token %}
-    {{ form }}
-    <button type="submit" class="btn btn-default">Search</button>
-</form>
-
-
-{% if result %}
+<p>{{ results }}</p>
+{% if result_list %}
 <div class="table-responsive ">
     <table width="700" border="0.5" cellpadding="5" class="table table-hover">
         <tr class="active">
@@ -20,7 +13,7 @@
             <th width="80">说明</th>
         </tr>
     </table>
-    {% for host in result %}
+    {% for host in result_list %}
     <table width="700" border="0.5" cellpadding="5" class="table table-hover">
         <td class="success" width="80">{{ host.hostname }}</td>
         <td class="success" width="80">{{ host.ipaddress01 }}</td>
@@ -30,7 +23,29 @@
     </table>
     {% endfor %}
 </div>
-{% else %}
-<p>主机不存在，请重新输入</p>
 {% endif %}
+
+<div class="pagination">
+<nav>
+    <ul class="pager">
+    <span  class="label label-info" >
+        {% if result_list.has_previous %}
+        <li>
+            <a href="?page={{ result_list.previous_page_number }}&name={{name}}">上一页</a>
+        </li>
+        {% endif %}
+
+        <span >
+            <li >Page {{ result_list.number }} of {{ result_list.paginator.num_pages }}.</li>
+        </span>
+
+        {% if result_list.has_next %}
+        <li>
+            <a href="?page={{ result_list.next_page_number }}&name={{name}}">下一页</a>
+        </li>
+        {% endif %}
+    </span>
+    </ul>
+</nav>
+</div>
 {% endblock %}

@@ -7,7 +7,6 @@ urlpatterns = [
     url(r'^$', views.index, name='index'),
     url(r'^(?P<host_id>[0-9]+)/$', views.detail, name='detail'),
     url(r'^(?P<host_id>[0-9]+)/results/$', views.results, name='results'),
-    # url(r'^search_fomre', views.search_form, name='search_form'),
+    url(r'^search_form', views.search_form, name='search_form'),
     url(r'^search', views.search, name='search'),
-
 ]

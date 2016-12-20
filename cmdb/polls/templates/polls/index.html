@@ -26,4 +26,30 @@
 {% else %}
 <p>No polls are available.</p>
 {% endif %}
+
+
+<div class="pagination">
+<nav>
+    <ul class="pager">
+    <span  class="label label-info" >
+        {% if host_list.has_previous %}
+        <li>
+            <a href="?page={{ host_list.previous_page_number }}">上一页</a>
+        </li>
+        {% endif %}
+
+        <span >
+            <li >Page {{ host_list.number }} of {{ host_list.paginator.num_pages }}</li>
+        </span>
+
+        {% if host_list.has_next %}
+        <li>
+            <a href="?page={{ host_list.next_page_number }}">下一页</a>
+        </li>
+        {% endif %}
+    </span>
+    </ul>
+</nav>
+</div>
+
 {% endblock %}
