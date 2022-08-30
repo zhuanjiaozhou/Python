@@ -1,0 +1,17 @@
+dn: cn=davidullua,dc=ihopeit,dc=com
+cn: davidullua 
+displayname: davidullua
+employeenumber: 001
+employeetype: 1
+gidnumber: 500
+givenname: davidullua
+homedirectory: /home/users/davidullua
+mail: szy8706@yeah.net
+objectclass: inetOrgPerson
+objectclass: top
+objectclass: posixAccount
+ou: davidullua
+sn: davidullua
+uid:  davidullua
+uidnumber: 500
+userpassword: 123456

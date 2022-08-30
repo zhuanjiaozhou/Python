@@ -1,0 +1,55 @@
+"#基础信息,学校与学历,综合能力测评成绩， 笔试测评成",
+"userid","username","city","phone","email","apply_position","born_address","gender","candidate_remark","bachelor_school","master_school","doctor_school","major","degree","test_score_of_general_ablity","paper_score",
+
+"#第一轮面试记录",
+"first_score","first_learning_ability","first_professional_competency","first_advantage","first_disadvantage","first_result","first_recommend_position","first_interviewer","first_remark",
+
+"#第二轮面试",
+"second_score","second_learning_ability","second_professional_competency","second_pursue_of_excellence","second_communication_ability","second_pressure_socre","second_advantage","second_disadvantage","second_result","second_recommend_position","second_interviewer","second_remark",
+
+"#HR终面",
+"hr_score","hr_responsibility","hr_communication_ability","hr_logic_ability","hr_poentail","hr_stability","hr_advantage","hr_disadvantage","hr_result","hr_interviewer","hr_remark","creator","create_date","modified_date","last_edito",
+
+
+# openladp 服务搭建
+
+docker run -p 389:389  -p 636:636 --name my-openldap-container --env LADP_ORGANISATION="ihopeit" --env LADP_DOMAIN="ihopeit.com" --env LDAP_ADMIN_PASSWORD="admin_password_4_ladp" --detach osixia/openladp:1.4.0
+
+docker run -p 80:80 -p 443:443 --name phpladpadmin-service --hostname phpldapadmin-service --link my-openldap-container:ldap-host --env PHPLDAPADMIN_LDAP_HOSTS=ldap-host --detach osixia/phpldapadmin:0.9.0 
+
+安装docker
+yum install -y docer
+启动docker
+systemctl start docker
+拉取镜像(默认最新版，没什么区别)
+docker pull osixia/openldap
+docker pull osixia/phpldapadmin
+run 镜像，创建容器，启动容器
+docker run -p 389:389 -p 636:636 --name my-openldap-container --env LDAP_ORGANISATION="ihopeit" --env LDAP_DOMAIN="ihopeit.com" --env LDAP_ADMIN_PASSWORD="admin_passwd_4_ldap" --detach osixia/openldap
+修改了命令，添加权限，禁用 https
+docker run -d --privileged -p 80:80 -p 443:443 --name phpldapadmin-service --hostname phpldapadmin-service --link my-openldap-container:ldap-host --env PHPLDAPADMIN_HTTPS=false --env PHPLDAPADMIN_LDAP_HOSTS=ldap-host --detach osixia/phpldapadmin
+用户名、密码
+CN=admin,DC=ihopeit,DC=com
+admin_passwd_4_ldap
+
+
+
+
+
+dn: cn=davidullua,dc=ihopeit,dc=com
+cn: davidullua 
+displayname: davidullua
+employeenumber: 001
+employeetype: 1
+gidnumber: 500
+givenname: davidullua
+homedirectory: /home/users/davidullua
+mail: szy8706@yeah.net
+objectclass: inetOrgPerson
+objectclass: top
+objectclass: posixAccount
+ou: davidullua
+sn: davidullua
+uid:  davidullua
+uidnumber: 500
+userpassword: 123456
