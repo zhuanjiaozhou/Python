@@ -16,7 +16,7 @@ def export_model_as_csv(modeladmin, request, queryset):
     response.charset = 'utf-8-sig' if "Windows" in request.headers.get('User-Agent') else 'utf-8'
 
     field_list = exporttabale_fields
-    response['Content-Disponsition'] = 'attachment; filename=recruitment-cadidates-list-%s.csv' %(datetime.now().strftime('%Y-%m-%D-%H-%M-%S'),)
+    response['Content-Disposition'] = 'attachment; filename=recruitment-cadidates-list-%s.csv' %(datetime.now().strftime('%Y-%m-%D-%H-%M-%S'),)
     ### 写入表头
     writer =  csv.writer(response)
     writer.writerow(
