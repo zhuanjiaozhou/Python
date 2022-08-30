@@ -17,8 +17,11 @@ from django.conf.urls import include
 from django.urls import re_path as url
 from django.contrib import admin
 from django.urls import path
+from django.utils.translation import gettext as _
 
 urlpatterns = [
     url(r"^", include("jobs.urls")),
     path('admin/', admin.site.urls),
 ]
+
+admin.site.site_header = _('科技公式招聘管理系统')

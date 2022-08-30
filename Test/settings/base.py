@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
 from pathlib import Path
-
+import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)3&nbjf!q)j)@ye-!$^4d8cl4!+qmlsqz_ac%ugvrnagiwa2w@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["192.168.0.0/16", "127.0.0.1"]
+ALLOWED_HOSTS = [ ]
 
 
 # Application definition
@@ -108,9 +108,11 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'zh-hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
+
+USE_L10N = True
 
 USE_TZ = True
 
@@ -119,6 +121,47 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = 'static/'
+
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'simple': {
+            'format': '%(asctime)s %(name)-12s %(lineno)d %(levelname)-8s %(message)s',
+        },
+    },
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+            'formatter': 'simple',
+        },
+
+        'mail_admins': {
+            'level': 'ERROR',
+            'class': 'django.utils.log.AdminEmailHandler',
+        },
+        'file': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'formatter': 'simple',
+            'filename': os.path.join(os.path.dirname(BASE_DIR), 'recruitment.admin.log'),
+        },
+    },
+
+    'root': {
+        'handlers': ['console', 'file'],
+        'level': 'INFO',
+    },
+    
+    'loggers': {
+        'django_python3_ldap': {
+            'handlers': ['console'],
+            'level': 'DEBUG',
+        },
+    },
+}
+
 
 ## ldap
 LDAP_AUTH_URL = "ldap://192.168.1.189:389"
@@ -142,8 +185,8 @@ LDAP_AUTH_FORMAT_USERNAME = "django_python3_ldap.utils.format_username_openldap"
 # 
 LDAP_AUTH_ACTIVE_DIRECTORY_DOMAIN = None
 
-LDAP_AUTH_CONNECTION_USERNAME = "admin"
-LDAP_AUTH_CONNECTION_PASSWORD = "123456"
+LDAP_AUTH_CONNECTION_USERNAME = None
+LDAP_AUTH_CONNECTION_PASSWORD = None
 
 AUTHENTICATION_BACKENDS = {"django_python3_ldap.auth.LDAPBackend", "django.contrib.auth.backends.ModelBackend", }
 
