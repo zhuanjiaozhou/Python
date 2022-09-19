@@ -4,3 +4,4 @@ db.sqlite3
 .vscode
 .\settings\local.py
 ./settings/local.py
+*.log
