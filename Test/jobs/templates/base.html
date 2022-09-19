@@ -1,8 +1,39 @@
 <!-- base.html -->
 
-<h1 style="margin:auto;width:50%;"> 科技公司开放职位<h1>
+{# Load the tag library #}
+{% load django_bootstrap5 %}
+{% load i18n %}
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+
+{# Display django.contrib.messages as Bootstrap alerts #}
+{% bootstrap_messages %}
+
+
+<h1> {% translate  "科技公司开放职位" %} <h1>
 
 <p></p>
+<hr>
+
+{% block  header %}
+<a href = "/" style="text-decoration:none; color:#077bff">{% translate "首页" %}</a>
+<a href="/joblist" style="text-decoration: none; color:#007bff">{% translate "职位列表" %}</a>
+
+{% if user.is_authenticated %}
+<a href="/accounts/logout" style="text-decoration: none; color:#007bff">{% translate "退出" %}</a>
+{% else %}
+<a href="/accounts/login" style="text-decoration: none; color:#007bff">{% translate "登录" %}</a>
+{% endif %}
+
+{% if user.is_authenticated %}
+<p>{% blocktranslate with user_name=user.username %} 终于等到你 {{ user_name }}, 期待加入我们，用技术去探索一个新世界 {% endblocktranslate %}</p>
+{% else %}
+<br>{% translate "欢迎你，期待加入我们，登陆后可以提交简历." %}<br>
+{% endif %}
+{% endblock  %}
+
+<hr>
 
 {% block content %}
 {% endblock  %}

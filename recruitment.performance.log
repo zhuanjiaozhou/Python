@@ -1,0 +1,1483 @@
+2022-09-01 14:02:10,785 interview.performance 12 INFO     0.050811767578125 /resume/1 {}
+2022-09-01 14:02:17,798 interview.performance 12 INFO     0.44362306594848633 /admin/interview/candidate/ {}
+2022-09-01 14:02:17,834 interview.performance 12 INFO     0.011725187301635742 /admin/jsi18n/ {}
+2022-09-01 14:02:22,350 interview.performance 12 INFO     0.004884481430053711 /resume/1 {}
+2022-09-01 14:04:29,991 interview.performance 12 INFO     0.01322627067565918 / {}
+2022-09-01 14:04:34,207 interview.performance 12 INFO     0.011853694915771484 /job/2/ {}
+2022-09-01 14:04:36,337 interview.performance 12 INFO     0.03135848045349121 /resume/add/ {'apply_position': '开发工程师', 'city': '北京'}
+2022-09-01 14:06:57,372 interview.performance 12 INFO     0.5016157627105713 /accounts/logout/ {}
+2022-09-01 14:06:59,259 interview.performance 12 INFO     0.02107858657836914 /accounts/login/ {}
+2022-09-01 14:07:55,122 interview.performance 12 INFO     0.12636065483093262 /accounts/login/ {}
+2022-09-01 14:08:06,718 interview.performance 12 INFO     0.49864673614501953 /accounts/login/ {}
+2022-09-01 14:08:06,731 interview.performance 12 INFO     0.007817268371582031 / {}
+2022-09-01 14:08:09,122 interview.performance 12 INFO     0.006839275360107422 /job/1/ {}
+2022-09-01 14:08:10,914 interview.performance 12 INFO     0.023550033569335938 /resume/add/ {'apply_position': '音视频工程师', 'city': '上海'}
+2022-09-01 14:09:35,188 interview.performance 12 INFO     0.4541656970977783 /resume/add/ {'apply_position': '音视频工程师', 'city': '上海'}
+2022-09-01 14:09:35,201 interview.performance 12 INFO     0.008796453475952148 /joblist/ {}
+2022-09-01 15:20:56,238 interview.performance 12 INFO     0.08892011642456055 /resume/1 {}
+2022-09-01 15:20:58,202 interview.performance 12 INFO     0.004885435104370117 /resume/1 {}
+2022-09-01 15:21:00,095 interview.performance 12 INFO     0.003908872604370117 /resume/1 {}
+2022-09-01 15:21:08,743 interview.performance 12 INFO     0.04397130012512207 /admin/interview/candidate/ {}
+2022-09-01 15:21:08,962 interview.performance 12 INFO     0.21497178077697754 /admin/login/ {'next': '/admin/interview/candidate/'}
+2022-09-01 15:21:13,869 interview.performance 12 INFO     0.3840174674987793 /admin/login/ {'next': '/admin/interview/candidate/'}
+2022-09-01 15:21:14,017 interview.performance 12 INFO     0.14461684226989746 /admin/interview/candidate/ {}
+2022-09-01 15:21:14,049 interview.performance 12 INFO     0.010749101638793945 /admin/jsi18n/ {}
+2022-09-01 15:21:14,392 interview.performance 12 INFO     0.10455489158630371 /admin/interview/candidate/ {'q': ''}
+2022-09-01 15:21:14,419 interview.performance 12 INFO     0.0068395137786865234 /admin/jsi18n/ {}
+2022-09-01 23:04:18,110 interview.performance 12 INFO     0.3401970863342285 / {}
+2022-09-01 23:04:18,242 interview.performance 12 INFO     0.02051997184753418 /favicon.ico {}
+2022-09-01 23:04:25,891 interview.performance 12 INFO     0.0009770393371582031 /sentry-debug {}
+2022-09-01 23:04:25,979 interview.performance 12 INFO     0.08012652397155762 /sentry-debug/ {}
+2022-09-01 23:06:27,418 interview.performance 12 INFO     0.06351423263549805 /sentry-debug/ {}
+2022-09-01 23:11:55,244 interview.performance 12 INFO     0.26676154136657715 /admin/ {}
+2022-09-01 23:11:56,739 interview.performance 12 INFO     0.02345132827758789 /admin/ {}
+2022-09-01 23:12:00,964 interview.performance 12 INFO     0.16709160804748535 /admin/interview/candidate/ {}
+2022-09-01 23:12:01,025 interview.performance 12 INFO     0.021495819091796875 /admin/jsi18n/ {}
+2022-09-01 23:12:12,040 interview.performance 12 INFO     0.03908491134643555 /admin/interview/candidate/ {}
+2022-09-01 23:12:21,550 interview.performance 12 INFO     0.04006218910217285 /admin/interview/candidate/ {}
+2022-09-01 23:39:43,615 interview.performance 12 INFO     0.019542932510375977 / {}
+2022-09-01 23:39:45,565 interview.performance 12 INFO     0.007818222045898438 /joblist/ {}
+2022-09-01 23:39:47,626 interview.performance 12 INFO     0.011725187301635742 / {}
+2022-09-01 23:39:53,713 interview.performance 12 INFO     0.09966826438903809 /resume/1 {}
+2022-09-01 23:39:58,815 interview.performance 12 INFO     0.004885673522949219 /resume/2 {}
+2022-09-01 23:40:01,508 interview.performance 12 INFO     0.021497249603271484 /resume/3 {}
+2022-09-01 23:40:04,427 interview.performance 12 INFO     0.011724710464477539 /resume/4 {}
+2022-09-01 23:40:06,944 interview.performance 12 INFO     0.014656543731689453 /resume/4 {}
+2022-09-02 00:45:18,578 interview.performance 36 INFO     duration:0.21106600761413574 url:/ parameters:{}
+2022-09-02 00:45:37,343 interview.performance 52 WARNING  url:http://127.0.0.1:8000/sentry-debug/ ** msg:ZeroDivisionError('division by zero') ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\urls.py", line 8, in trigger_error
+    division_by_zero = 1 / 0
+ZeroDivisionError: division by zero
+````
+2022-09-02 00:45:37,575 interview.performance 36 INFO     duration:0.23454666137695312 url:/sentry-debug/ parameters:{}
+2022-09-02 00:45:43,655 interview.performance 52 WARNING  url:http://127.0.0.1:8000/sentry-debug/ ** msg:ZeroDivisionError('division by zero') ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\urls.py", line 8, in trigger_error
+    division_by_zero = 1 / 0
+ZeroDivisionError: division by zero
+````
+2022-09-02 00:45:43,851 interview.performance 36 INFO     duration:0.19640517234802246 url:/sentry-debug/ parameters:{}
+2022-09-02 00:45:46,051 interview.performance 52 WARNING  url:http://127.0.0.1:8000/sentry-debug/ ** msg:ZeroDivisionError('division by zero') ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\urls.py", line 8, in trigger_error
+    division_by_zero = 1 / 0
+ZeroDivisionError: division by zero
+````
+2022-09-02 00:45:46,217 interview.performance 36 INFO     duration:0.16806864738464355 url:/sentry-debug/ parameters:{}
+2022-09-02 00:45:59,795 interview.performance 36 INFO     duration:0.011724472045898438 url:/ parameters:{}
+2022-09-02 00:46:08,299 interview.performance 52 WARNING  url:http://127.0.0.1:8000/sentry-debug/ ** msg:ZeroDivisionError('division by zero') ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\urls.py", line 8, in trigger_error
+    division_by_zero = 1 / 0
+ZeroDivisionError: division by zero
+````
+2022-09-02 00:46:08,478 interview.performance 36 INFO     duration:0.1807713508605957 url:/sentry-debug/ parameters:{}
+2022-09-02 09:55:19,367 interview.performance 52 WARNING  url:http://127.0.0.1:8000/detail_resume/2 ** msg:TypeError("detail_resume() got an unexpected keyword argument 'pk'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+TypeError: detail_resume() got an unexpected keyword argument 'pk'
+````
+2022-09-02 09:55:19,858 interview.performance 36 INFO     duration:0.5013256072998047 url:/detail_resume/2 parameters:{}
+2022-09-02 09:55:32,889 interview.performance 52 WARNING  url:http://127.0.0.1:8000/detail_resume/2 ** msg:TypeError("detail_resume() got an unexpected keyword argument 'pk'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+TypeError: detail_resume() got an unexpected keyword argument 'pk'
+````
+2022-09-02 09:55:33,063 interview.performance 36 INFO     duration:0.1758861541748047 url:/detail_resume/2 parameters:{}
+2022-09-02 09:55:36,798 interview.performance 52 WARNING  url:http://127.0.0.1:8000/detail_resume/1 ** msg:TypeError("detail_resume() got an unexpected keyword argument 'pk'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+TypeError: detail_resume() got an unexpected keyword argument 'pk'
+````
+2022-09-02 09:55:37,017 interview.performance 36 INFO     duration:0.21985769271850586 url:/detail_resume/1 parameters:{}
+2022-09-02 09:56:09,873 interview.performance 36 INFO     duration:0.012702703475952148 url:/detail_resume/1 parameters:{}
+2022-09-02 10:02:58,310 interview.performance 36 INFO     duration:0.013364315032958984 url:/detail_resume/1 parameters:{}
+2022-09-02 10:02:59,547 interview.performance 36 INFO     duration:0.003908634185791016 url:/detail_resume/1 parameters:{}
+2022-09-02 10:03:03,428 interview.performance 36 INFO     duration:0.004631757736206055 url:/detail_resume/2 parameters:{}
+2022-09-02 10:03:13,765 interview.performance 36 INFO     duration:0.005444765090942383 url:/detail_resume/1 parameters:{}
+2022-09-02 10:12:39,261 interview.performance 36 INFO     duration:0.13973164558410645 url:/create_user parameters:{}
+2022-09-02 10:13:22,024 interview.performance 36 INFO     duration:0.03691601753234863 url:/create_user parameters:{}
+2022-09-02 10:13:59,405 interview.performance 36 INFO     duration:0.013136148452758789 url:/create_user/ parameters:{}
+2022-09-02 10:14:34,687 interview.performance 36 INFO     duration:0.11921167373657227 url:/create_hr_user/ parameters:{}
+2022-09-02 10:14:44,752 interview.performance 36 INFO     duration:0.11628007888793945 url:/ parameters:{}
+2022-09-02 10:14:45,792 interview.performance 36 INFO     duration:0.00879526138305664 url:/joblist/ parameters:{}
+2022-09-02 10:14:47,982 interview.performance 36 INFO     duration:0.009772300720214844 url:/ parameters:{}
+2022-09-02 10:14:48,893 interview.performance 36 INFO     duration:0.010748863220214844 url:/ parameters:{}
+2022-09-02 10:14:50,017 interview.performance 36 INFO     duration:0.01074838638305664 url:/joblist/ parameters:{}
+2022-09-02 10:15:47,964 interview.performance 52 WARNING  url:http://127.0.0.1:8000/create_hr_user/ ** msg:NameError("name 'User' is not defined") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\views.py", line 28, in create_hr_user
+    user = User(is_superuser=False, username=username, is_active=True, is_staff=True)
+NameError: name 'User' is not defined
+````
+2022-09-02 10:15:48,170 interview.performance 36 INFO     duration:0.30805158615112305 url:/create_hr_user/ parameters:{}
+2022-09-02 10:15:53,993 interview.performance 52 WARNING  url:http://127.0.0.1:8000/create_hr_user/ ** msg:NameError("name 'User' is not defined") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\views.py", line 28, in create_hr_user
+    user = User(is_superuser=False, username=username, is_active=True, is_staff=True)
+NameError: name 'User' is not defined
+````
+2022-09-02 10:15:54,455 interview.performance 36 INFO     duration:0.4684627056121826 url:/create_hr_user/ parameters:{}
+2022-09-02 10:16:06,748 interview.performance 36 INFO     duration:0.11149048805236816 url:/admin/ parameters:{}
+2022-09-02 10:16:09,694 interview.performance 36 INFO     duration:0.16072630882263184 url:/admin/auth/group/3/change/ parameters:{}
+2022-09-02 10:16:09,772 interview.performance 36 INFO     duration:0.04689502716064453 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:16:12,376 interview.performance 36 INFO     duration:0.05177044868469238 url:/admin/auth/group/ parameters:{}
+2022-09-02 10:16:12,406 interview.performance 36 INFO     duration:0.007818222045898438 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:16:14,754 interview.performance 36 INFO     duration:0.03803730010986328 url:/admin/auth/group/3/change/ parameters:{}
+2022-09-02 10:16:14,783 interview.performance 36 INFO     duration:0.007174491882324219 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:16:17,547 interview.performance 36 INFO     duration:0.022841453552246094 url:/admin/auth/group/ parameters:{}
+2022-09-02 10:16:17,579 interview.performance 36 INFO     duration:0.00930929183959961 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:16:19,492 interview.performance 36 INFO     duration:0.0378725528717041 url:/admin/auth/group/3/change/ parameters:{}
+2022-09-02 10:16:19,524 interview.performance 36 INFO     duration:0.00856328010559082 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:16:21,162 interview.performance 36 INFO     duration:0.02180027961730957 url:/admin/ parameters:{}
+2022-09-02 10:16:26,427 interview.performance 36 INFO     duration:0.04709458351135254 url:/admin/auth/user/ parameters:{}
+2022-09-02 10:16:26,463 interview.performance 36 INFO     duration:0.010748147964477539 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:16:58,609 interview.performance 52 WARNING  url:http://127.0.0.1:8000/create_hr_user/ ** msg:NameError("name 'User' is not defined") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\views.py", line 28, in create_hr_user
+    user = User(is_superuser=False, username=username, is_active=True, is_staff=True)
+NameError: name 'User' is not defined
+````
+2022-09-02 10:16:58,782 interview.performance 36 INFO     duration:0.18383193016052246 url:/create_hr_user/ parameters:{}
+2022-09-02 10:18:04,715 interview.performance 36 INFO     duration:0.6634814739227295 url:/create_hr_user/ parameters:{}
+2022-09-02 10:18:13,328 interview.performance 36 INFO     duration:0.19347286224365234 url:/accounts/logout/ parameters:{}
+2022-09-02 10:18:15,029 interview.performance 36 INFO     duration:0.045926809310913086 url:/accounts/login/ parameters:{}
+2022-09-02 10:18:24,921 interview.performance 36 INFO     duration:0.12409687042236328 url:/accounts/login/ parameters:{}
+2022-09-02 10:18:46,825 interview.performance 36 INFO     duration:0.715268611907959 url:/accounts/login/ parameters:{}
+2022-09-02 10:18:46,852 interview.performance 36 INFO     duration:0.016610145568847656 url:/ parameters:{}
+2022-09-02 10:18:48,775 interview.performance 36 INFO     duration:0.009771108627319336 url:/joblist/ parameters:{}
+2022-09-02 10:18:50,034 interview.performance 36 INFO     duration:0.02149796485900879 url:/job/1/ parameters:{}
+2022-09-02 10:18:51,085 interview.performance 36 INFO     duration:0.009770393371582031 url:/ parameters:{}
+2022-09-02 10:18:52,155 interview.performance 36 INFO     duration:0.006838798522949219 url:/job/2/ parameters:{}
+2022-09-02 10:18:53,272 interview.performance 36 INFO     duration:0.00879359245300293 url:/joblist/ parameters:{}
+2022-09-02 10:18:54,117 interview.performance 36 INFO     duration:0.00879526138305664 url:/ parameters:{}
+2022-09-02 10:18:58,481 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/auth/user/ ** msg:PermissionDenied() ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1928, in changelist_view
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+````
+2022-09-02 10:18:58,703 interview.performance 36 INFO     duration:0.23646831512451172 url:/admin/auth/user/ parameters:{}
+2022-09-02 10:19:03,864 interview.performance 36 INFO     duration:0.06156015396118164 url:/admin/ parameters:{}
+2022-09-02 10:19:09,083 interview.performance 36 INFO     duration:0.1827256679534912 url:/admin/logout/ parameters:{}
+2022-09-02 10:19:11,415 interview.performance 36 INFO     duration:0.001953601837158203 url:/admin/ parameters:{}
+2022-09-02 10:19:11,436 interview.performance 36 INFO     duration:0.011724233627319336 url:/admin/login/ parameters:{'next': '/admin/'}
+2022-09-02 10:19:16,230 interview.performance 36 INFO     duration:0.5149550437927246 url:/admin/login/ parameters:{'next': '/admin/'}
+2022-09-02 10:19:16,272 interview.performance 36 INFO     duration:0.031267404556274414 url:/admin/ parameters:{}
+2022-09-02 10:19:21,461 interview.performance 36 INFO     duration:0.06351423263549805 url:/admin/auth/user/ parameters:{}
+2022-09-02 10:19:21,500 interview.performance 36 INFO     duration:0.012702465057373047 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:19:26,836 interview.performance 36 INFO     duration:0.1026008129119873 url:/admin/auth/user/9/change/ parameters:{}
+2022-09-02 10:19:26,890 interview.performance 36 INFO     duration:0.024428129196166992 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:19:41,786 interview.performance 36 INFO     duration:0.02638077735900879 url:/admin/auth/user/9/password/ parameters:{}
+2022-09-02 10:19:44,286 interview.performance 36 INFO     duration:0.0752408504486084 url:/admin/auth/user/9/change/ parameters:{}
+2022-09-02 10:19:46,402 interview.performance 36 INFO     duration:0.052765846252441406 url:/admin/auth/user/ parameters:{}
+2022-09-02 10:19:48,502 interview.performance 36 INFO     duration:0.06449031829833984 url:/admin/auth/user/5/change/ parameters:{}
+2022-09-02 10:19:48,536 interview.performance 36 INFO     duration:0.006839275360107422 url:/admin/jsi18n/ parameters:{}
+2022-09-02 10:19:51,162 interview.performance 36 INFO     duration:0.05569815635681152 url:/admin/auth/user/ parameters:{}
+2022-09-02 10:19:56,678 interview.performance 36 INFO     duration:0.024428606033325195 url:/admin/ parameters:{}
+2022-09-02 11:07:22,466 interview.performance 36 INFO     duration:0.36545228958129883 url:/admin/ parameters:{}
+2022-09-02 11:07:27,787 interview.performance 36 INFO     duration:0.08403444290161133 url:/api/ parameters:{}
+2022-09-02 11:07:30,774 interview.performance 36 INFO     duration:0.05667400360107422 url:/api/users/ parameters:{}
+2022-09-02 11:07:36,180 interview.performance 36 INFO     duration:0.04006338119506836 url:/api/jobs/ parameters:{}
+2022-09-02 11:07:38,718 interview.performance 36 INFO     duration:0.034200191497802734 url:/api/jobs/2/ parameters:{}
+2022-09-02 11:28:04,121 interview.performance 36 INFO     duration:0.4029381275177002 url:/admin/ parameters:{}
+2022-09-02 11:28:05,138 interview.performance 36 INFO     duration:0.02404642105102539 url:/admin/ parameters:{}
+2022-09-02 11:28:16,985 interview.performance 36 INFO     duration:0.024001121520996094 url:/admin/ parameters:{}
+2022-09-02 11:28:41,092 interview.performance 36 INFO     duration:0.031244754791259766 url:/admin/ parameters:{}
+2022-09-02 11:34:16,116 interview.performance 36 INFO     duration:0.19445180892944336 url:/admin/ parameters:{}
+2022-09-02 11:35:26,402 interview.performance 36 INFO     duration:0.13289189338684082 url:/admin/ parameters:{}
+2022-09-02 11:35:45,156 interview.performance 36 INFO     duration:0.3126850128173828 url:/admin/ parameters:{}
+2022-09-02 11:35:57,736 interview.performance 36 INFO     duration:0.029312849044799805 url:/admin/ parameters:{}
+2022-09-02 11:36:21,002 interview.performance 36 INFO     duration:0.03224468231201172 url:/admin/jobs/ parameters:{}
+2022-09-02 11:36:28,649 interview.performance 36 INFO     duration:0.025404691696166992 url:/admin/jobs/ parameters:{}
+2022-09-02 11:36:33,542 interview.performance 36 INFO     duration:0.1817483901977539 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 11:36:33,603 interview.performance 36 INFO     duration:0.022475004196166992 url:/admin/jsi18n/ parameters:{}
+2022-09-02 11:36:38,504 interview.performance 36 INFO     duration:0.03126811981201172 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 11:43:06,140 interview.performance 36 INFO     duration:0.12801146507263184 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 11:46:28,940 interview.performance 36 INFO     duration:0.3341825008392334 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 11:47:41,596 interview.performance 36 INFO     duration:0.12312030792236328 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 11:48:46,527 interview.performance 36 INFO     duration:0.3664278984069824 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 11:48:46,594 interview.performance 36 INFO     duration:0.02051997184753418 url:/admin/jsi18n/ parameters:{}
+2022-09-02 11:49:51,834 interview.performance 36 INFO     duration:0.3537271022796631 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 13:14:59,955 interview.performance 36 INFO     duration:0.2357316017150879 url:/api/jobs/8/ parameters:{}
+2022-09-02 13:15:56,179 interview.performance 36 INFO     duration:0.038599252700805664 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 13:15:56,242 interview.performance 36 INFO     duration:0.021053791046142578 url:/admin/jsi18n/ parameters:{}
+2022-09-02 13:16:03,259 interview.performance 36 INFO     duration:0.03472566604614258 url:/admin/jobs/resume/ parameters:{}
+2022-09-02 13:16:03,307 interview.performance 36 INFO     duration:0.016611576080322266 url:/admin/jsi18n/ parameters:{}
+2022-09-02 13:19:03,800 interview.performance 36 INFO     duration:0.39867448806762695 url:/admin/jobs/ parameters:{}
+2022-09-02 13:19:05,558 interview.performance 36 INFO     duration:0.17588591575622559 url:/admin/jobs/job/ parameters:{}
+2022-09-02 13:19:05,620 interview.performance 36 INFO     duration:0.02345108985900879 url:/admin/jsi18n/ parameters:{}
+2022-09-02 13:19:13,757 interview.performance 36 INFO     duration:0.17100024223327637 url:/admin/jobs/job/2/change/ parameters:{}
+2022-09-02 13:19:13,804 interview.performance 36 INFO     duration:0.013678550720214844 url:/admin/jsi18n/ parameters:{}
+2022-09-02 13:19:22,648 interview.performance 36 INFO     duration:0.012702703475952148 url:/admin/jobs/job/2/ parameters:{}
+2022-09-02 13:19:22,712 interview.performance 36 INFO     duration:0.04885697364807129 url:/admin/jobs/job/2/change/ parameters:{}
+2022-09-02 13:19:22,760 interview.performance 36 INFO     duration:0.01856517791748047 url:/admin/jsi18n/ parameters:{}
+2022-09-02 13:19:28,236 interview.performance 36 INFO     duration:0.009772062301635742 url:/admin/jobs/job/2/ parameters:{}
+2022-09-02 13:19:28,303 interview.performance 36 INFO     duration:0.0527653694152832 url:/admin/jobs/job/2/change/ parameters:{}
+2022-09-02 13:19:28,345 interview.performance 36 INFO     duration:0.015634536743164062 url:/admin/jsi18n/ parameters:{}
+2022-09-02 13:19:37,941 interview.performance 36 INFO     duration:0.12018728256225586 url:/jobs/job/2/ parameters:{}
+2022-09-02 13:20:06,221 interview.performance 36 INFO     duration:0.13203001022338867 url:/job/2/ parameters:{}
+2022-09-02 13:20:15,171 interview.performance 36 INFO     duration:0.017869234085083008 url:/job/2/ parameters:{}
+2022-09-02 13:20:18,860 interview.performance 36 INFO     duration:0.00488591194152832 url:/job/2/ parameters:{}
+2022-09-02 13:20:20,262 interview.performance 36 INFO     duration:0.01563429832458496 url:/job/2/ parameters:{}
+2022-09-02 13:20:21,309 interview.performance 36 INFO     duration:0.003907918930053711 url:/job/2/ parameters:{}
+2022-09-02 13:20:23,138 interview.performance 36 INFO     duration:0.0019540786743164062 url:/job/2/ parameters:{}
+2022-09-02 13:20:24,225 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/2/ parameters:{}
+2022-09-02 13:20:29,285 interview.performance 36 INFO     duration:0.018565893173217773 url:/job/1/ parameters:{}
+2022-09-02 13:20:35,993 interview.performance 36 INFO     duration:0.017241716384887695 url:/job/1/ parameters:{}
+2022-09-02 13:20:38,348 interview.performance 36 INFO     duration:0.004887580871582031 url:/job/1/ parameters:{}
+2022-09-02 13:20:40,306 interview.performance 36 INFO     duration:0.00237274169921875 url:/job/1/ parameters:{}
+2022-09-02 13:20:41,320 interview.performance 36 INFO     duration:0.016218185424804688 url:/job/1/ parameters:{}
+2022-09-02 13:20:42,220 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/1/ parameters:{}
+2022-09-02 13:20:42,772 interview.performance 36 INFO     duration:0.003908872604370117 url:/job/1/ parameters:{}
+2022-09-02 13:20:43,388 interview.performance 36 INFO     duration:0.0029342174530029297 url:/job/1/ parameters:{}
+2022-09-02 13:20:43,993 interview.performance 36 INFO     duration:0.0019545555114746094 url:/job/1/ parameters:{}
+2022-09-02 13:20:44,642 interview.performance 36 INFO     duration:0.001955270767211914 url:/job/1/ parameters:{}
+2022-09-02 13:20:45,107 interview.performance 36 INFO     duration:0.002771615982055664 url:/job/1/ parameters:{}
+2022-09-02 13:20:45,313 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/1/ parameters:{}
+2022-09-02 13:20:45,490 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/1/ parameters:{}
+2022-09-02 13:20:45,681 interview.performance 36 INFO     duration:0.002930879592895508 url:/job/1/ parameters:{}
+2022-09-02 13:20:45,853 interview.performance 36 INFO     duration:0.0039081573486328125 url:/job/1/ parameters:{}
+2022-09-02 13:20:46,187 interview.performance 36 INFO     duration:0.0019540786743164062 url:/job/1/ parameters:{}
+2022-09-02 13:20:46,379 interview.performance 36 INFO     duration:0.017250776290893555 url:/job/1/ parameters:{}
+2022-09-02 13:20:46,538 interview.performance 36 INFO     duration:0.0029315948486328125 url:/job/1/ parameters:{}
+2022-09-02 13:20:46,707 interview.performance 36 INFO     duration:0.0033807754516601562 url:/job/1/ parameters:{}
+2022-09-02 13:20:46,906 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/1/ parameters:{}
+2022-09-02 13:21:56,363 interview.performance 36 INFO     duration:0.243851900100708 url:/job/1/ parameters:{}
+2022-09-02 13:22:01,598 interview.performance 36 INFO     duration:0.017342567443847656 url:/job/1/ parameters:{}
+2022-09-02 13:22:12,414 interview.performance 36 INFO     duration:0.2361435890197754 url:/job/1/ parameters:{}
+2022-09-02 13:22:30,310 interview.performance 36 INFO     duration:0.017850399017333984 url:/job/1/ parameters:{}
+2022-09-02 13:22:49,168 interview.performance 36 INFO     duration:0.22196269035339355 url:/job/1/ parameters:{}
+2022-09-02 13:22:53,075 interview.performance 36 INFO     duration:0.003908395767211914 url:/job/1/ parameters:{}
+2022-09-02 13:22:54,648 interview.performance 36 INFO     duration:0.015640735626220703 url:/job/1/ parameters:{}
+2022-09-02 13:23:47,888 interview.performance 36 INFO     duration:0.23744559288024902 url:/job/1/ parameters:{}
+2022-09-02 13:23:54,884 interview.performance 36 INFO     duration:0.004885435104370117 url:/job/1/ parameters:{}
+2022-09-02 13:23:55,763 interview.performance 36 INFO     duration:0.0019540786743164062 url:/job/1/ parameters:{}
+2022-09-02 13:23:56,452 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/1/ parameters:{}
+2022-09-02 13:23:57,051 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/1/ parameters:{}
+2022-09-02 13:23:57,565 interview.performance 36 INFO     duration:0.0019533634185791016 url:/job/1/ parameters:{}
+2022-09-02 13:23:58,086 interview.performance 36 INFO     duration:0.015633821487426758 url:/job/1/ parameters:{}
+2022-09-02 13:23:58,632 interview.performance 36 INFO     duration:0.0058629512786865234 url:/job/1/ parameters:{}
+2022-09-02 13:24:11,273 interview.performance 36 INFO     duration:0.21301674842834473 url:/job/1/ parameters:{}
+2022-09-02 13:24:15,184 interview.performance 36 INFO     duration:0.0029304027557373047 url:/job/1/ parameters:{}
+2022-09-02 13:24:32,318 interview.performance 36 INFO     duration:0.01856517791748047 url:/job/1/ parameters:{}
+2022-09-02 13:24:36,027 interview.performance 36 INFO     duration:0.0029315948486328125 url:/job/1/ parameters:{}
+2022-09-02 13:24:36,554 interview.performance 36 INFO     duration:0.0019545555114746094 url:/job/1/ parameters:{}
+2022-09-02 13:24:37,062 interview.performance 36 INFO     duration:0.003908872604370117 url:/job/1/ parameters:{}
+2022-09-02 13:24:37,563 interview.performance 36 INFO     duration:0.0039081573486328125 url:/job/1/ parameters:{}
+2022-09-02 13:24:38,069 interview.performance 36 INFO     duration:0.002932310104370117 url:/job/1/ parameters:{}
+2022-09-02 13:24:38,534 interview.performance 36 INFO     duration:0.004886150360107422 url:/job/1/ parameters:{}
+2022-09-02 13:24:38,948 interview.performance 36 INFO     duration:0.003908395767211914 url:/job/1/ parameters:{}
+2022-09-02 13:24:39,426 interview.performance 36 INFO     duration:0.002931356430053711 url:/job/1/ parameters:{}
+2022-09-02 13:24:39,872 interview.performance 36 INFO     duration:0.0019538402557373047 url:/job/1/ parameters:{}
+2022-09-02 13:24:40,243 interview.performance 36 INFO     duration:0.003908872604370117 url:/job/1/ parameters:{}
+2022-09-02 13:24:40,507 interview.performance 36 INFO     duration:0.0029325485229492188 url:/job/1/ parameters:{}
+2022-09-02 13:24:40,724 interview.performance 36 INFO     duration:0.004880189895629883 url:/job/1/ parameters:{}
+2022-09-02 13:24:40,859 interview.performance 36 INFO     duration:0.003908634185791016 url:/job/1/ parameters:{}
+2022-09-02 13:24:41,091 interview.performance 36 INFO     duration:0.0029315948486328125 url:/job/1/ parameters:{}
+2022-09-02 13:24:41,268 interview.performance 36 INFO     duration:0.0029320716857910156 url:/job/1/ parameters:{}
+2022-09-02 13:24:41,435 interview.performance 36 INFO     duration:0.0029311180114746094 url:/job/1/ parameters:{}
+2022-09-02 13:24:41,602 interview.performance 36 INFO     duration:0.0029315948486328125 url:/job/1/ parameters:{}
+2022-09-02 13:24:41,977 interview.performance 36 INFO     duration:0.0029311180114746094 url:/job/1/ parameters:{}
+2022-09-02 13:24:42,258 interview.performance 36 INFO     duration:0.0029315948486328125 url:/job/1/ parameters:{}
+2022-09-02 13:26:20,763 interview.performance 52 WARNING  url:http://127.0.0.1:8000/job/3/ ** msg:UnboundLocalError("local variable 'job' referenced before assignment") ````Traceback (most recent call last):
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\views.py", line 54, in detail
+    job = Job.objects.get(pk=job_id)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+jobs.models.Job.DoesNotExist: Job matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "D:\PycharmProjects\Learn\Python\Test\jobs\views.py", line 57, in detail
+    except job.DoseNotExist:
+UnboundLocalError: local variable 'job' referenced before assignment
+````
+2022-09-02 13:26:21,268 interview.performance 36 INFO     duration:0.5406711101531982 url:/job/3/ parameters:{}
+2022-09-02 13:26:35,868 interview.performance 36 INFO     duration:0.0009772777557373047 url:/api parameters:{}
+2022-09-02 13:26:36,010 interview.performance 36 INFO     duration:0.13128900527954102 url:/api/ parameters:{}
+2022-09-02 13:26:40,752 interview.performance 36 INFO     duration:0.051789283752441406 url:/api/2 parameters:{}
+2022-09-02 13:26:52,896 interview.performance 36 INFO     duration:0.06351399421691895 url:/api/jobs/ parameters:{}
+2022-09-02 13:26:55,030 interview.performance 36 INFO     duration:0.03908586502075195 url:/api/jobs/1/ parameters:{}
+2022-09-02 13:27:00,173 interview.performance 36 INFO     duration:0.04201769828796387 url:/api/jobs/2/ parameters:{}
+2022-09-02 13:27:07,548 interview.performance 36 INFO     duration:0.0009768009185791016 url:/api/jobs/3 parameters:{}
+2022-09-02 13:27:07,615 interview.performance 36 INFO     duration:0.053742408752441406 url:/api/jobs/3/ parameters:{}
+2022-09-02 15:38:53,079 interview.performance 36 INFO     duration:0.4906949996948242 url:/admin/ parameters:{}
+2022-09-02 15:38:53,139 interview.performance 36 INFO     duration:0.03080606460571289 url:/admin/ parameters:{}
+2022-09-02 15:39:00,443 interview.performance 36 INFO     duration:0.30312466621398926 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:39:00,497 interview.performance 36 INFO     duration:0.015571832656860352 url:/admin/jsi18n/ parameters:{}
+2022-09-02 15:39:09,624 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/interview/candidate/ ** msg:AttributeError("'NoneType' object has no attribute 'username'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1964, in changelist_view
+    response = self.response_action(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "D:\PycharmProjects\Learn\Python\Test\interview\admin.py", line 34, in notify_interviewer
+    interviewers = obj.first_interviewer_user.username + ";" + interviewers
+AttributeError: 'NoneType' object has no attribute 'username'
+````
+2022-09-02 15:39:09,842 interview.performance 36 INFO     duration:0.25469422340393066 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:39:49,147 interview.performance 36 INFO     duration:0.12219071388244629 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:39:55,713 interview.performance 36 INFO     duration:0.28766798973083496 url:/admin/logout/ parameters:{}
+2022-09-02 15:39:57,619 interview.performance 36 INFO     duration:0.002931356430053711 url:/admin/ parameters:{}
+2022-09-02 15:39:57,650 interview.performance 36 INFO     duration:0.0191652774810791 url:/admin/login/ parameters:{'next': '/admin/'}
+2022-09-02 15:40:04,914 interview.performance 36 INFO     duration:1.838390588760376 url:/admin/login/ parameters:{'next': '/admin/'}
+2022-09-02 15:40:04,961 interview.performance 36 INFO     duration:0.03409266471862793 url:/admin/ parameters:{}
+2022-09-02 15:40:07,553 interview.performance 36 INFO     duration:0.14409160614013672 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:40:07,604 interview.performance 36 INFO     duration:0.009769916534423828 url:/admin/jsi18n/ parameters:{}
+2022-09-02 15:40:13,882 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/interview/candidate/ ** msg:AttributeError("'NoneType' object has no attribute 'username'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1964, in changelist_view
+    response = self.response_action(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "D:\PycharmProjects\Learn\Python\Test\interview\admin.py", line 34, in notify_interviewer
+    interviewers = obj.first_interviewer_user.username + ";" + interviewers
+AttributeError: 'NoneType' object has no attribute 'username'
+````
+2022-09-02 15:40:14,063 interview.performance 36 INFO     duration:0.2200026512145996 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:42:09,064 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/interview/candidate/ ** msg:AttributeError("'NoneType' object has no attribute 'username'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1964, in changelist_view
+    response = self.response_action(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "D:\PycharmProjects\Learn\Python\Test\interview\admin.py", line 34, in notify_interviewer
+    interviewers = obj.first_interviewer_user.username + ";" + interviewers
+AttributeError: 'NoneType' object has no attribute 'username'
+````
+2022-09-02 15:42:09,292 interview.performance 36 INFO     duration:0.4662661552429199 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:43:26,584 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/interview/candidate/ ** msg:AttributeError("'NoneType' object has no attribute 'username'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1964, in changelist_view
+    response = self.response_action(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "D:\PycharmProjects\Learn\Python\Test\interview\admin.py", line 35, in notify_interviewer
+    interviewers = obj.first_interviewer_user.username + ";" + interviewers
+AttributeError: 'NoneType' object has no attribute 'username'
+````
+2022-09-02 15:43:26,800 interview.performance 36 INFO     duration:0.4530203342437744 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:43:42,190 interview.performance 36 INFO     duration:0.2941462993621826 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:43:52,195 interview.performance 36 INFO     duration:0.20708823204040527 url:/admin/interview/candidate/ parameters:{}
+2022-09-02 15:43:52,430 interview.performance 36 INFO     duration:0.21685123443603516 url:/admin/interview/candidate/ parameters:{}
+2022-09-05 10:55:58,826 interview.performance 36 INFO     duration:0.390488862991333 url:/ parameters:{}
+2022-09-05 10:55:58,973 interview.performance 36 INFO     duration:0.028575420379638672 url:/favicon.ico parameters:{}
+2022-09-05 10:56:03,815 interview.performance 36 INFO     duration:0.2676568031311035 url:/admin/ parameters:{}
+2022-09-05 10:56:04,407 interview.performance 36 INFO     duration:0.037657737731933594 url:/admin/ parameters:{}
+2022-09-05 10:57:21,295 interview.performance 36 INFO     duration:0.036542415618896484 url:/admin/ parameters:{}
+2022-09-05 10:57:25,572 interview.performance 36 INFO     duration:0.3882150650024414 url:/admin/interview/candidate/ parameters:{}
+2022-09-05 10:57:25,781 interview.performance 36 INFO     duration:0.015299320220947266 url:/admin/jsi18n/ parameters:{}
+2022-09-05 10:57:27,858 interview.performance 36 INFO     duration:0.03192901611328125 url:/admin/ parameters:{}
+2022-09-05 10:57:29,502 interview.performance 36 INFO     duration:0.07102441787719727 url:/admin/jobs/job/ parameters:{}
+2022-09-05 10:57:33,046 interview.performance 36 INFO     duration:0.04059243202209473 url:/admin/ parameters:{}
+2022-09-05 10:57:52,955 interview.performance 36 INFO     duration:0.031395912170410156 url:/admin/ parameters:{}
+2022-09-05 10:58:09,468 interview.performance 36 INFO     duration:0.03224635124206543 url:/admin/interview/ parameters:{}
+2022-09-05 10:58:11,328 interview.performance 36 INFO     duration:0.2853260040283203 url:/admin/interview/candidate/ parameters:{}
+2022-09-05 10:58:13,415 interview.performance 36 INFO     duration:0.03713178634643555 url:/admin/ parameters:{}
+2022-09-05 10:58:14,606 interview.performance 36 INFO     duration:0.03029179573059082 url:/admin/jobs/ parameters:{}
+2022-09-05 10:58:15,894 interview.performance 36 INFO     duration:0.06937766075134277 url:/admin/jobs/resume/ parameters:{}
+2022-09-05 10:58:17,995 interview.performance 36 INFO     duration:0.03810906410217285 url:/admin/ parameters:{}
+2022-09-05 10:58:19,148 interview.performance 36 INFO     duration:0.08305644989013672 url:/admin/jobs/job/ parameters:{}
+2022-09-05 10:58:21,757 interview.performance 36 INFO     duration:0.03322291374206543 url:/admin/ parameters:{}
+2022-09-05 10:58:26,829 interview.performance 36 INFO     duration:0.7406754493713379 url:/admin/interview/candidate/1/change/ parameters:{}
+2022-09-05 10:58:26,906 interview.performance 36 INFO     duration:0.7377438545227051 url:/admin/interview/candidate/1/change/ parameters:{}
+2022-09-05 10:58:28,729 interview.performance 36 INFO     duration:0.03126883506774902 url:/admin/ parameters:{}
+2022-09-05 10:58:31,901 interview.performance 36 INFO     duration:0.2530801296234131 url:/admin/logout/ parameters:{}
+2022-09-05 10:58:34,382 interview.performance 36 INFO     duration:0.004885673522949219 url:/admin/ parameters:{}
+2022-09-05 10:58:34,420 interview.performance 36 INFO     duration:0.0254061222076416 url:/admin/login/ parameters:{'next': '/admin/'}
+2022-09-05 10:58:40,493 interview.performance 36 INFO     duration:0.650784969329834 url:/admin/login/ parameters:{'next': '/admin/'}
+2022-09-05 10:58:40,575 interview.performance 36 INFO     duration:0.06742429733276367 url:/admin/ parameters:{}
+2022-09-05 10:58:42,856 interview.performance 36 INFO     duration:0.03224587440490723 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 10:59:10,742 interview.performance 36 INFO     duration:0.06752657890319824 url:/admin/django_celery_beat/clockedschedule/ parameters:{}
+2022-09-05 10:59:10,785 interview.performance 36 INFO     duration:0.01037287712097168 url:/admin/jsi18n/ parameters:{}
+2022-09-05 10:59:13,088 interview.performance 36 INFO     duration:0.06012225151062012 url:/admin/django_celery_beat/clockedschedule/add/ parameters:{}
+2022-09-05 10:59:16,624 interview.performance 36 INFO     duration:0.04313921928405762 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 10:59:17,952 interview.performance 36 INFO     duration:0.0559844970703125 url:/admin/django_celery_beat/clockedschedule/ parameters:{}
+2022-09-05 10:59:20,171 interview.performance 36 INFO     duration:0.08215761184692383 url:/admin/django_celery_beat/clockedschedule/add/ parameters:{}
+2022-09-05 10:59:22,155 interview.performance 36 INFO     duration:0.03419995307922363 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 10:59:23,857 interview.performance 36 INFO     duration:0.0722053050994873 url:/admin/django_celery_beat/crontabschedule/ parameters:{}
+2022-09-05 10:59:23,960 interview.performance 36 INFO     duration:0.0887153148651123 url:/admin/django_celery_beat/crontabschedule/ parameters:{}
+2022-09-05 10:59:28,235 interview.performance 36 INFO     duration:0.032590389251708984 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 10:59:29,596 interview.performance 36 INFO     duration:0.10766220092773438 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 10:59:35,003 interview.performance 36 INFO     duration:0.3209216594696045 url:/admin/django_celery_beat/periodictask/1/change/ parameters:{}
+2022-09-05 10:59:42,141 interview.performance 36 INFO     duration:0.03418159484863281 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 10:59:43,593 interview.performance 36 INFO     duration:0.07275223731994629 url:/admin/django_celery_beat/solarschedule/ parameters:{}
+2022-09-05 10:59:45,608 interview.performance 36 INFO     duration:0.0785679817199707 url:/admin/django_celery_beat/solarschedule/add/ parameters:{}
+2022-09-05 10:59:52,469 interview.performance 36 INFO     duration:0.03517723083496094 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 10:59:57,918 interview.performance 36 INFO     duration:0.08438444137573242 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:00:02,174 interview.performance 36 INFO     duration:0.21079468727111816 url:/admin/django_celery_beat/periodictask/add/ parameters:{}
+2022-09-05 11:01:00,237 interview.performance 36 INFO     duration:0.0410463809967041 url:/admin/ parameters:{}
+2022-09-05 11:29:42,473 interview.performance 36 INFO     duration:0.3601531982421875 url:/admin/ parameters:{}
+2022-09-05 11:29:43,306 interview.performance 36 INFO     duration:0.0372776985168457 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 11:29:44,761 interview.performance 36 INFO     duration:0.13164567947387695 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:29:44,897 interview.performance 36 INFO     duration:0.06645536422729492 url:/admin/jsi18n/ parameters:{}
+2022-09-05 11:29:55,443 interview.performance 36 INFO     duration:0.37044215202331543 url:/admin/django_celery_beat/periodictask/2/change/ parameters:{}
+2022-09-05 11:29:58,454 interview.performance 36 INFO     duration:0.10472917556762695 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:39:20,760 interview.performance 36 INFO     duration:0.4328751564025879 url:/admin/ parameters:{}
+2022-09-05 11:39:20,765 interview.performance 36 INFO     duration:0.3537259101867676 url:/admin/ parameters:{}
+2022-09-05 11:39:22,721 interview.performance 36 INFO     duration:0.034198760986328125 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 11:39:24,529 interview.performance 36 INFO     duration:0.16220617294311523 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:39:24,642 interview.performance 36 INFO     duration:0.04787945747375488 url:/admin/jsi18n/ parameters:{}
+2022-09-05 11:39:34,406 interview.performance 36 INFO     duration:0.2863023281097412 url:/admin/django_celery_beat/periodictask/3/change/ parameters:{}
+2022-09-05 11:39:39,532 interview.performance 36 INFO     duration:0.042017221450805664 url:/admin/django_celery_beat/periodictask/3/delete/ parameters:{}
+2022-09-05 11:44:35,199 interview.performance 36 INFO     duration:0.3859710693359375 url:/admin/ parameters:{}
+2022-09-05 11:44:37,006 interview.performance 36 INFO     duration:0.04494810104370117 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 11:44:39,438 interview.performance 36 INFO     duration:0.1280066967010498 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:44:39,498 interview.performance 36 INFO     duration:0.020519018173217773 url:/admin/jsi18n/ parameters:{}
+2022-09-05 11:44:50,275 interview.performance 36 INFO     duration:0.04201674461364746 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:44:53,231 interview.performance 36 INFO     duration:0.44753170013427734 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:44:53,378 interview.performance 36 INFO     duration:0.1289818286895752 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:49:53,262 interview.performance 36 INFO     duration:0.32148027420043945 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:49:55,016 interview.performance 36 INFO     duration:0.4641439914703369 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:49:55,213 interview.performance 36 INFO     duration:0.18077540397644043 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:49:55,335 interview.performance 36 INFO     duration:0.055695533752441406 url:/admin/jsi18n/ parameters:{}
+2022-09-05 11:50:12,609 interview.performance 36 INFO     duration:0.4602346420288086 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:50:16,419 interview.performance 36 INFO     duration:0.04006338119506836 url:/admin/ parameters:{}
+2022-09-05 11:50:17,087 interview.performance 36 INFO     duration:0.04006361961364746 url:/admin/ parameters:{}
+2022-09-05 11:50:19,535 interview.performance 36 INFO     duration:0.07914853096008301 url:/admin/django_celery_beat/ parameters:{}
+2022-09-05 11:50:21,100 interview.performance 36 INFO     duration:0.08501148223876953 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-05 11:50:30,635 interview.performance 36 INFO     duration:0.11334943771362305 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '6'}
+2022-09-05 11:50:32,411 interview.performance 36 INFO     duration:0.10650944709777832 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 11:51:22,646 interview.performance 36 INFO     duration:0.04494881629943848 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 11:51:24,548 interview.performance 36 INFO     duration:0.3547017574310303 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 11:51:24,700 interview.performance 36 INFO     duration:0.13777661323547363 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 11:52:57,304 interview.performance 36 INFO     duration:0.4045379161834717 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 13:17:20,828 interview.performance 36 INFO     duration:0.5559952259063721 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 13:17:20,938 interview.performance 36 INFO     duration:0.5335204601287842 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 13:17:21,190 interview.performance 36 INFO     duration:0.24135375022888184 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 13:17:21,308 interview.performance 36 INFO     duration:0.05471968650817871 url:/admin/jsi18n/ parameters:{}
+2022-09-05 13:41:40,032 interview.performance 36 INFO     duration:0.713231086730957 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 13:41:40,034 interview.performance 36 INFO     duration:0.6298942565917969 url:/admin/django_celery_beat/periodictask/ parameters:{'o': '-6'}
+2022-09-05 13:41:48,486 interview.performance 36 INFO     duration:0.0009763240814208984 url:/resume/add parameters:{}
+2022-09-05 13:41:48,565 interview.performance 36 INFO     duration:0.06650590896606445 url:/resume/add/ parameters:{}
+2022-09-05 13:43:15,239 interview.performance 36 INFO     duration:0.13386869430541992 url:/ parameters:{}
+2022-09-05 13:44:00,834 interview.performance 36 INFO     duration:0.04308819770812988 url:/admin/ parameters:{}
+2022-09-05 13:44:04,412 interview.performance 36 INFO     duration:0.21038556098937988 url:/admin/jobs/resume/ parameters:{}
+2022-09-05 13:44:04,502 interview.performance 36 INFO     duration:0.027362585067749023 url:/admin/jsi18n/ parameters:{}
+2022-09-05 13:44:06,355 interview.performance 36 INFO     duration:0.17047500610351562 url:/admin/jobs/resume/add/ parameters:{}
+2022-09-05 13:48:56,139 interview.performance 36 INFO     duration:0.3332064151763916 url:/admin/jobs/resume/add/ parameters:{}
+2022-09-05 13:48:56,232 interview.performance 36 INFO     duration:0.08207941055297852 url:/admin/jobs/resume/ parameters:{}
+2022-09-05 13:49:05,479 interview.performance 36 INFO     duration:0.14754796028137207 url:/admin/jobs/resume/3/change/ parameters:{}
+2022-09-05 13:49:05,516 interview.performance 36 INFO     duration:0.010747432708740234 url:/admin/jsi18n/ parameters:{}
+2022-09-05 13:51:24,965 interview.performance 36 INFO     duration:0.05667400360107422 url:/resume/add/ parameters:{}
+2022-09-05 13:53:03,047 interview.performance 36 INFO     duration:0.017588376998901367 url:/resume/add/ parameters:{}
+2022-09-05 13:53:07,753 interview.performance 36 INFO     duration:0.0029311180114746094 url:/resume/add/ parameters:{}
+2022-09-05 13:53:15,319 interview.performance 36 INFO     duration:0.007816791534423828 url:/resume/add/ parameters:{}
+2022-09-05 13:57:06,536 interview.performance 36 INFO     duration:0.3322291374206543 url:/resume/add/ parameters:{}
+2022-09-05 13:59:18,944 interview.performance 36 INFO     duration:0.2606818675994873 url:/admin/jobs/resume/3/change/ parameters:{}
+2022-09-05 13:59:18,997 interview.performance 36 INFO     duration:0.01932072639465332 url:/admin/jsi18n/ parameters:{}
+2022-09-05 13:59:23,891 interview.performance 36 INFO     duration:0.0864708423614502 url:/admin/jobs/resume/ parameters:{}
+2022-09-05 14:02:34,307 interview.performance 36 INFO     duration:0.35962462425231934 url:/admin/jobs/resume/ parameters:{}
+2022-09-05 14:02:34,450 interview.performance 36 INFO     duration:0.10035347938537598 url:/media/images/头像.jpg parameters:{}
+2022-09-05 16:28:24,835 interview.performance 36 INFO     duration:0.41676831245422363 url:/admin/ parameters:{}
+2022-09-05 16:28:28,285 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/running/area/ ** msg:OperationalError(1049, "Unknown database 'running'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1049, "Unknown database 'running'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 831, in get_changelist_instance
+    return ChangeList(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\compiler.py", line 1359, in execute_sql
+    cursor = self.connection.cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 284, in cursor
+    return self._cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 260, in _cursor
+    self.ensure_connection()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 243, in ensure_connection
+    with self.wrap_database_errors:
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1049, "Unknown database 'running'")
+````
+2022-09-05 16:28:28,425 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/running/area/ ** msg:OperationalError(1049, "Unknown database 'running'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1049, "Unknown database 'running'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 831, in get_changelist_instance
+    return ChangeList(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\compiler.py", line 1359, in execute_sql
+    cursor = self.connection.cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 284, in cursor
+    return self._cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 260, in _cursor
+    self.ensure_connection()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 243, in ensure_connection
+    with self.wrap_database_errors:
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1049, "Unknown database 'running'")
+````
+2022-09-05 16:28:28,709 interview.performance 36 INFO     duration:0.3644740581512451 url:/admin/running/area/ parameters:{}
+2022-09-05 16:28:28,753 interview.performance 36 INFO     duration:0.49491381645202637 url:/admin/running/area/ parameters:{}
+2022-09-05 16:28:48,390 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/running/area/ ** msg:OperationalError(1049, "Unknown database 'running'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1049, "Unknown database 'running'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 831, in get_changelist_instance
+    return ChangeList(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\compiler.py", line 1359, in execute_sql
+    cursor = self.connection.cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 284, in cursor
+    return self._cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 260, in _cursor
+    self.ensure_connection()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 243, in ensure_connection
+    with self.wrap_database_errors:
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1049, "Unknown database 'running'")
+````
+2022-09-05 16:28:48,616 interview.performance 36 INFO     duration:0.2501487731933594 url:/admin/running/area/ parameters:{}
+2022-09-05 16:28:52,322 interview.performance 36 INFO     duration:0.044948577880859375 url:/admin/ parameters:{}
+2022-09-05 16:28:52,556 interview.performance 36 INFO     duration:0.04494810104370117 url:/admin/ parameters:{}
+2022-09-05 16:28:54,452 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/running/area/ ** msg:OperationalError(1049, "Unknown database 'running'") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1049, "Unknown database 'running'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 831, in get_changelist_instance
+    return ChangeList(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\compiler.py", line 1359, in execute_sql
+    cursor = self.connection.cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 284, in cursor
+    return self._cursor()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 260, in _cursor
+    self.ensure_connection()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 243, in ensure_connection
+    with self.wrap_database_errors:
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 244, in ensure_connection
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 583, in connect
+    return real_connect(self)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\base\base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 633, in connect
+    self._request_authentication()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1049, "Unknown database 'running'")
+````
+2022-09-05 16:28:54,692 interview.performance 36 INFO     duration:0.2521023750305176 url:/admin/running/area/ parameters:{}
+2022-09-05 16:28:57,418 interview.performance 36 INFO     duration:0.04299521446228027 url:/admin/ parameters:{}
+2022-09-05 16:31:11,181 interview.performance 36 INFO     duration:0.04592609405517578 url:/admin/ parameters:{}
+2022-09-05 16:31:12,284 interview.performance 36 INFO     duration:0.03615307807922363 url:/admin/running/ parameters:{}
+2022-09-05 16:31:13,744 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/running/city/ ** msg:ProgrammingError(1146, "Table 'running.city' doesn't exist") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'running.city' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 831, in get_changelist_instance
+    return ChangeList(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 560, in execute
+    return real_execute(self, sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'running.city' doesn't exist")
+````
+2022-09-05 16:31:13,970 interview.performance 36 INFO     duration:0.24330878257751465 url:/admin/running/city/ parameters:{}
+2022-09-05 16:31:15,687 interview.performance 36 INFO     duration:0.03322291374206543 url:/admin/running/ parameters:{}
+2022-09-05 16:32:51,716 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/running/area/ ** msg:ProgrammingError(1146, "Table 'running.area' doesn't exist") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'running.area' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 831, in get_changelist_instance
+    return ChangeList(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 560, in execute
+    return real_execute(self, sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'running.area' doesn't exist")
+````
+2022-09-05 16:32:52,034 interview.performance 36 INFO     duration:0.5373125076293945 url:/admin/running/area/ parameters:{}
+2022-09-05 16:32:53,863 interview.performance 36 INFO     duration:0.13777756690979004 url:/admin/running/ parameters:{}
+2022-09-05 16:33:04,595 interview.performance 52 WARNING  url:http://127.0.0.1:8000/admin/running/city/ ** msg:ProgrammingError(1146, "Table 'running.city' doesn't exist") ````Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'running.city' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\options.py", line 831, in get_changelist_instance
+    return ChangeList(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentry_sdk\integrations\django\__init__.py", line 560, in execute
+    return real_execute(self, sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\Nice\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'running.city' doesn't exist")
+````
+2022-09-05 16:33:04,837 interview.performance 36 INFO     duration:0.2595686912536621 url:/admin/running/city/ parameters:{}
+2022-09-05 17:16:59,801 interview.performance 36 INFO     duration:0.40258336067199707 url:/admin/running/city/ parameters:{}
+2022-09-05 17:16:59,996 interview.performance 36 INFO     duration:0.04006242752075195 url:/admin/jsi18n/ parameters:{}
+2022-09-05 17:17:01,770 interview.performance 36 INFO     duration:0.03517770767211914 url:/admin/running/ parameters:{}
+2022-09-05 17:17:02,840 interview.performance 36 INFO     duration:0.0752401351928711 url:/admin/running/area/ parameters:{}
+2022-09-05 17:17:04,737 interview.performance 36 INFO     duration:0.04397225379943848 url:/admin/ parameters:{}
+2022-09-05 17:17:07,070 interview.performance 36 INFO     duration:0.06253695487976074 url:/admin/running/area/ parameters:{}
+2022-09-05 17:17:08,678 interview.performance 36 INFO     duration:0.04103994369506836 url:/admin/running/ parameters:{}
+2022-09-05 17:17:09,708 interview.performance 36 INFO     duration:0.06253767013549805 url:/admin/running/country/ parameters:{}
+2022-09-05 17:17:11,094 interview.performance 36 INFO     duration:0.03224587440490723 url:/admin/running/ parameters:{}
+2022-09-05 17:22:30,712 interview.performance 36 INFO     duration:0.3889033794403076 url:/admin/running/ parameters:{}
+2022-09-05 17:22:31,552 interview.performance 36 INFO     duration:0.048857688903808594 url:/admin/ parameters:{}
+2022-09-05 17:22:34,355 interview.performance 36 INFO     duration:0.1016225814819336 url:/admin/running/area/ parameters:{}
+2022-09-05 17:22:34,406 interview.performance 36 INFO     duration:0.015633106231689453 url:/admin/jsi18n/ parameters:{}
+2022-09-05 17:22:36,000 interview.performance 36 INFO     duration:0.039086103439331055 url:/admin/running/ parameters:{}
+2022-09-05 17:22:37,270 interview.performance 36 INFO     duration:0.07328557968139648 url:/admin/running/country/ parameters:{}
+2022-09-05 17:22:39,241 interview.performance 36 INFO     duration:0.09869217872619629 url:/admin/running/country/add/ parameters:{}
+2022-09-05 17:22:43,264 interview.performance 36 INFO     duration:0.0762174129486084 url:/admin/running/country/ parameters:{}
+2022-09-09 16:02:16,303 interview.performance 36 INFO     duration:0.0039055347442626953 url:/admin parameters:{}
+2022-09-09 16:02:16,794 interview.performance 36 INFO     duration:0.47000646591186523 url:/admin/ parameters:{}
+2022-09-09 16:02:17,404 interview.performance 36 INFO     duration:0.04494643211364746 url:/favicon.ico parameters:{}
+2022-09-09 16:02:20,723 interview.performance 36 INFO     duration:0.03419971466064453 url:/admin/django_celery_beat/ parameters:{}
+2022-09-09 16:02:24,770 interview.performance 36 INFO     duration:0.11432623863220215 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 16:02:24,880 interview.performance 36 INFO     duration:0.04788064956665039 url:/admin/jsi18n/ parameters:{}
+2022-09-09 16:05:17,926 interview.performance 36 INFO     duration:0.0517885684967041 url:/admin/ parameters:{}
+2022-09-09 16:06:01,233 interview.performance 36 INFO     duration:0.03126811981201172 url:/admin/django_celery_beat/ parameters:{}
+2022-09-09 16:06:02,651 interview.performance 36 INFO     duration:0.09771442413330078 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 16:06:27,855 interview.performance 36 INFO     duration:0.053743600845336914 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 16:06:33,618 interview.performance 36 INFO     duration:0.9527096748352051 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 16:06:33,750 interview.performance 36 INFO     duration:0.11530256271362305 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:06:30,935 interview.performance 36 INFO     duration:0.42603445053100586 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:06:31,000 interview.performance 36 INFO     duration:0.01758861541748047 url:/admin/jsi18n/ parameters:{}
+2022-09-09 17:06:34,941 interview.performance 36 INFO     duration:0.31304049491882324 url:/admin/django_celery_beat/periodictask/1/change/ parameters:{}
+2022-09-09 17:06:40,341 interview.performance 36 INFO     duration:0.10064482688903809 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:09:58,821 interview.performance 36 INFO     duration:0.39965152740478516 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:10:09,290 interview.performance 36 INFO     duration:0.046903133392333984 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:10:13,149 interview.performance 36 INFO     duration:1.562100887298584 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:10:13,312 interview.performance 36 INFO     duration:0.14852499961853027 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:16:35,505 interview.performance 36 INFO     duration:0.39769816398620605 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:16:35,550 interview.performance 36 INFO     duration:0.012702703475952148 url:/admin/jsi18n/ parameters:{}
+2022-09-09 17:16:38,109 interview.performance 36 INFO     duration:0.04104042053222656 url:/admin/ parameters:{}
+2022-09-09 17:20:46,555 interview.performance 36 INFO     duration:0.036154747009277344 url:/admin/running/ parameters:{}
+2022-09-09 17:20:48,483 interview.performance 36 INFO     duration:0.39892077445983887 url:/admin/running/country/ parameters:{}
+2022-09-09 17:20:48,487 interview.performance 36 INFO     duration:0.47513771057128906 url:/admin/running/country/ parameters:{}
+2022-09-09 17:20:49,983 interview.performance 36 INFO     duration:0.03517746925354004 url:/admin/running/ parameters:{}
+2022-09-09 17:20:51,094 interview.performance 36 INFO     duration:0.06742286682128906 url:/admin/running/province/ parameters:{}
+2022-09-09 17:26:58,724 interview.performance 36 INFO     duration:0.34493184089660645 url:/admin/ parameters:{}
+2022-09-09 17:27:03,394 interview.performance 36 INFO     duration:0.037131547927856445 url:/admin/django_celery_beat/ parameters:{}
+2022-09-09 17:27:05,384 interview.performance 36 INFO     duration:0.21985650062561035 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:27:05,450 interview.performance 36 INFO     duration:0.2042236328125 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:27:05,505 interview.performance 36 INFO     duration:0.020519256591796875 url:/admin/jsi18n/ parameters:{}
+2022-09-09 17:30:26,479 interview.performance 36 INFO     duration:0.480755090713501 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:30:35,702 interview.performance 36 INFO     duration:0.047879695892333984 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:30:38,123 interview.performance 36 INFO     duration:0.43587756156921387 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:30:38,245 interview.performance 36 INFO     duration:0.11237025260925293 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:48:52,230 interview.performance 36 INFO     duration:0.32245755195617676 url:/admin/ parameters:{}
+2022-09-09 17:48:54,200 interview.performance 36 INFO     duration:0.03223681449890137 url:/admin/django_celery_beat/ parameters:{}
+2022-09-09 17:48:56,201 interview.performance 36 INFO     duration:0.11432552337646484 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 17:48:56,250 interview.performance 36 INFO     duration:0.014657020568847656 url:/admin/jsi18n/ parameters:{}
+2022-09-09 23:27:13,835 interview.performance 36 INFO     duration:0.34981775283813477 url:/admin/ parameters:{}
+2022-09-09 23:27:20,391 interview.performance 36 INFO     duration:0.03126811981201172 url:/admin/running/ parameters:{}
+2022-09-09 23:27:24,454 interview.performance 36 INFO     duration:0.0732872486114502 url:/admin/running/country/ parameters:{}
+2022-09-09 23:27:26,440 interview.performance 36 INFO     duration:0.10650873184204102 url:/admin/running/ parameters:{}
+2022-09-09 23:27:28,805 interview.performance 36 INFO     duration:0.055698394775390625 url:/admin/running/province/ parameters:{}
+2022-09-09 23:29:11,145 interview.performance 36 INFO     duration:0.05374288558959961 url:/admin/running/province/ parameters:{}
+2022-09-09 23:29:12,491 interview.performance 36 INFO     duration:0.03908586502075195 url:/admin/ parameters:{}
+2022-09-09 23:29:17,636 interview.performance 36 INFO     duration:0.05471968650817871 url:/admin/running/province/ parameters:{}
+2022-09-09 23:29:20,725 interview.performance 36 INFO     duration:0.03713107109069824 url:/admin/ parameters:{}
+2022-09-09 23:42:22,282 interview.performance 36 INFO     duration:0.32442641258239746 url:/admin/ parameters:{}
+2022-09-09 23:44:07,556 interview.performance 36 INFO     duration:0.32833027839660645 url:/admin/ parameters:{}
+2022-09-09 23:44:09,625 interview.performance 36 INFO     duration:0.0752403736114502 url:/admin/running/area/ parameters:{}
+2022-09-09 23:44:09,683 interview.performance 36 INFO     duration:0.018566131591796875 url:/admin/jsi18n/ parameters:{}
+2022-09-09 23:44:11,454 interview.performance 36 INFO     duration:0.03908419609069824 url:/admin/ parameters:{}
+2022-09-09 23:44:12,791 interview.performance 36 INFO     duration:0.06253767013549805 url:/admin/running/country/ parameters:{}
+2022-09-09 23:44:14,367 interview.performance 36 INFO     duration:0.040062665939331055 url:/admin/ parameters:{}
+2022-09-09 23:44:15,805 interview.performance 36 INFO     duration:0.05862879753112793 url:/admin/running/province/ parameters:{}
+2022-09-09 23:45:37,805 interview.performance 36 INFO     duration:0.04103994369506836 url:/admin/ parameters:{}
+2022-09-09 23:45:39,957 interview.performance 36 INFO     duration:0.03322243690490723 url:/admin/django_celery_beat/ parameters:{}
+2022-09-09 23:45:41,856 interview.performance 36 INFO     duration:0.05765128135681152 url:/admin/django_celery_beat/clockedschedule/ parameters:{}
+2022-09-09 23:45:43,491 interview.performance 36 INFO     duration:0.03322148323059082 url:/admin/django_celery_beat/ parameters:{}
+2022-09-09 23:45:44,994 interview.performance 36 INFO     duration:0.10846328735351562 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 23:45:53,000 interview.performance 36 INFO     duration:0.2980315685272217 url:/admin/django_celery_beat/periodictask/18/change/ parameters:{}
+2022-09-09 23:46:00,500 interview.performance 36 INFO     duration:0.10846304893493652 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 23:54:55,623 interview.performance 36 INFO     duration:0.41333580017089844 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 23:54:55,683 interview.performance 36 INFO     duration:0.020039081573486328 url:/admin/jsi18n/ parameters:{}
+2022-09-09 23:55:09,855 interview.performance 36 INFO     duration:0.04299497604370117 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 23:55:12,523 interview.performance 36 INFO     duration:0.7692956924438477 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 23:55:12,875 interview.performance 36 INFO     duration:0.34012269973754883 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-09 23:55:19,612 interview.performance 36 INFO     duration:0.11823463439941406 url:/admin/ parameters:{}
+2022-09-09 23:55:24,684 interview.performance 36 INFO     duration:0.03224587440490723 url:/admin/jobs/ parameters:{}
+2022-09-09 23:55:26,373 interview.performance 36 INFO     duration:0.07914996147155762 url:/admin/jobs/resume/ parameters:{}
+2022-09-09 23:55:26,482 interview.performance 36 INFO     duration:0.08305644989013672 url:/media/images/头像.jpg parameters:{}
+2022-09-09 23:55:29,937 interview.performance 36 INFO     duration:0.15829920768737793 url:/admin/jobs/resume/1/change/ parameters:{}
+2022-09-09 23:55:39,842 interview.performance 36 INFO     duration:0.31503987312316895 url:/admin/jobs/resume/1/change/ parameters:{}
+2022-09-09 23:55:39,944 interview.performance 36 INFO     duration:0.09185123443603516 url:/admin/jobs/resume/ parameters:{}
+2022-09-10 00:18:16,969 interview.performance 36 INFO     duration:0.3586122989654541 url:/admin/ parameters:{}
+2022-09-10 00:18:20,770 interview.performance 36 INFO     duration:0.034200429916381836 url:/admin/django_celery_beat/ parameters:{}
+2022-09-10 00:18:23,995 interview.performance 36 INFO     duration:0.11334824562072754 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-10 00:18:24,044 interview.performance 36 INFO     duration:0.015641450881958008 url:/admin/jsi18n/ parameters:{}
+2022-09-10 00:18:33,975 interview.performance 36 INFO     duration:0.2457733154296875 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-10 00:18:34,323 interview.performance 36 INFO     duration:0.3380913734436035 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 09:14:59,804 interview.performance 36 INFO     duration:0.06546902656555176 url:/ parameters:{}
+2022-09-13 09:15:02,990 interview.performance 36 INFO     duration:0.17002654075622559 url:/job/1/ parameters:{}
+2022-09-13 09:17:35,924 interview.performance 36 INFO     duration:0.11334896087646484 url:/job/1/ parameters:{}
+2022-09-13 09:17:36,823 interview.performance 36 INFO     duration:0.11334991455078125 url:/job/1/ parameters:{}
+2022-09-13 15:56:46,311 interview.performance 36 INFO     duration:0.45144128799438477 url:/job/1/ parameters:{}
+2022-09-13 16:17:42,286 interview.performance 36 INFO     duration:0.42410969734191895 url:/job/1/ parameters:{}
+2022-09-13 16:17:47,852 interview.performance 36 INFO     duration:0.24233174324035645 url:/admin/ parameters:{}
+2022-09-13 16:17:48,798 interview.performance 36 INFO     duration:0.27164626121520996 url:/admin/ parameters:{}
+2022-09-13 16:17:52,396 interview.performance 36 INFO     duration:0.08110284805297852 url:/admin/running/area/ parameters:{}
+2022-09-13 16:17:52,621 interview.performance 36 INFO     duration:0.0762176513671875 url:/admin/jsi18n/ parameters:{}
+2022-09-13 16:17:53,705 interview.performance 36 INFO     duration:0.16220521926879883 url:/admin/running/city/ parameters:{}
+2022-09-13 16:17:55,144 interview.performance 36 INFO     duration:0.06937694549560547 url:/admin/running/country/ parameters:{}
+2022-09-13 16:17:55,544 interview.performance 36 INFO     duration:0.07328605651855469 url:/admin/running/province/ parameters:{}
+2022-09-13 16:17:56,998 interview.performance 36 INFO     duration:0.09771442413330078 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:17:57,034 interview.performance 36 INFO     duration:0.0048847198486328125 url:/media/images/头像.jpg parameters:{}
+2022-09-13 16:17:59,406 interview.performance 36 INFO     duration:0.24135446548461914 url:/admin/jobs/resume/3/change/ parameters:{}
+2022-09-13 16:18:06,766 interview.performance 36 INFO     duration:0.06742310523986816 url:/admin/jobs/job/ parameters:{}
+2022-09-13 16:18:08,846 interview.performance 36 INFO     duration:0.06546831130981445 url:/admin/django_celery_beat/crontabschedule/ parameters:{}
+2022-09-13 16:18:09,545 interview.performance 36 INFO     duration:0.06937742233276367 url:/admin/django_celery_beat/clockedschedule/ parameters:{}
+2022-09-13 16:18:10,298 interview.performance 36 INFO     duration:0.06937623023986816 url:/admin/django_celery_beat/intervalschedule/ parameters:{}
+2022-09-13 16:18:10,914 interview.performance 36 INFO     duration:0.09282851219177246 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:18:12,500 interview.performance 36 INFO     duration:0.07133173942565918 url:/admin/django_celery_beat/solarschedule/ parameters:{}
+2022-09-13 16:18:19,509 interview.performance 36 INFO     duration:0.09282851219177246 url:/admin/auth/user/ parameters:{}
+2022-09-13 16:18:20,143 interview.performance 36 INFO     duration:0.07426261901855469 url:/admin/auth/group/ parameters:{}
+2022-09-13 16:18:26,573 interview.performance 36 INFO     duration:0.42408037185668945 url:/admin/interview/candidate/ parameters:{}
+2022-09-13 16:18:45,730 interview.performance 36 INFO     duration:0.2345137596130371 url:/admin/auth/user/5/change/ parameters:{}
+2022-09-13 16:19:12,511 interview.performance 36 INFO     duration:0.05667424201965332 url:/admin/django_celery_beat/clockedschedule/ parameters:{}
+2022-09-13 16:19:13,733 interview.performance 36 INFO     duration:0.06546878814697266 url:/admin/django_celery_beat/crontabschedule/ parameters:{}
+2022-09-13 16:19:18,001 interview.performance 36 INFO     duration:0.06644606590270996 url:/admin/django_celery_beat/intervalschedule/ parameters:{}
+2022-09-13 16:19:20,871 interview.performance 36 INFO     duration:0.08305740356445312 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:19:37,507 interview.performance 36 INFO     duration:0.10455322265625 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:19:44,010 interview.performance 36 INFO     duration:0.1495037078857422 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:19:44,121 interview.performance 36 INFO     duration:0.09869194030761719 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:19:47,846 interview.performance 36 INFO     duration:0.1514575481414795 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:19:53,121 interview.performance 36 INFO     duration:0.280440092086792 url:/admin/django_celery_beat/periodictask/1/change/ parameters:{}
+2022-09-13 16:19:59,462 interview.performance 36 INFO     duration:0.08501172065734863 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:20:07,849 interview.performance 36 INFO     duration:0.21497178077697754 url:/admin/django_celery_beat/periodictask/1/change/ parameters:{}
+2022-09-13 16:20:09,539 interview.performance 36 INFO     duration:0.08207917213439941 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:20:15,103 interview.performance 36 INFO     duration:0.2814176082611084 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:20:15,248 interview.performance 36 INFO     duration:0.32343602180480957 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:20:15,374 interview.performance 36 INFO     duration:0.11334896087646484 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:35:06,082 interview.performance 36 INFO     duration:0.4035606384277344 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:35:06,142 interview.performance 36 INFO     duration:0.016611099243164062 url:/admin/jsi18n/ parameters:{}
+2022-09-13 16:44:20,233 interview.performance 36 INFO     duration:0.5892179012298584 url:/admin/ parameters:{}
+2022-09-13 16:44:20,572 interview.performance 36 INFO     duration:0.1289827823638916 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:44:20,673 interview.performance 36 INFO     duration:0.01856541633605957 url:/admin/jsi18n/ parameters:{}
+2022-09-13 16:44:23,076 interview.performance 36 INFO     duration:0.08110308647155762 url:/admin/running/province/ parameters:{}
+2022-09-13 16:44:24,219 interview.performance 36 INFO     duration:0.06449151039123535 url:/admin/running/country/ parameters:{}
+2022-09-13 16:44:25,268 interview.performance 36 INFO     duration:0.0771942138671875 url:/admin/running/city/ parameters:{}
+2022-09-13 16:44:25,704 interview.performance 36 INFO     duration:0.1573185920715332 url:/admin/running/area/ parameters:{}
+2022-09-13 16:56:11,642 interview.performance 36 INFO     duration:0.6097383499145508 url:/admin/ parameters:{}
+2022-09-13 16:56:11,965 interview.performance 36 INFO     duration:0.1299598217010498 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:56:12,018 interview.performance 36 INFO     duration:0.018565893173217773 url:/admin/jsi18n/ parameters:{}
+2022-09-13 16:56:15,867 interview.performance 36 INFO     duration:0.2872805595397949 url:/admin/django_celery_beat/periodictask/19/change/ parameters:{}
+2022-09-13 16:56:18,064 interview.performance 36 INFO     duration:0.08696579933166504 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 16:57:12,441 interview.performance 36 INFO     duration:0.5833554267883301 url:/admin/interview/candidate/ parameters:{}
+2022-09-13 16:57:15,285 interview.performance 36 INFO     duration:0.39574360847473145 url:/admin/interview/candidate/2/change/ parameters:{}
+2022-09-13 16:57:49,186 interview.performance 36 INFO     duration:0.1573197841644287 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:57:49,225 interview.performance 36 INFO     duration:0.00683903694152832 url:/media/images/头像.jpg parameters:{}
+2022-09-13 16:57:49,940 interview.performance 36 INFO     duration:0.07035374641418457 url:/admin/jobs/job/ parameters:{}
+2022-09-13 16:57:53,409 interview.performance 36 INFO     duration:0.14168596267700195 url:/admin/jobs/resume/3/change/ parameters:{}
+2022-09-13 16:57:57,420 interview.performance 36 INFO     duration:0.07035446166992188 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:00,561 interview.performance 36 INFO     duration:0.08501124382019043 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:00,694 interview.performance 36 INFO     duration:0.10943984985351562 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:02,731 interview.performance 36 INFO     duration:0.07523941993713379 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:05,318 interview.performance 36 INFO     duration:0.07035446166992188 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:10,452 interview.performance 36 INFO     duration:0.07133173942565918 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:11,172 interview.performance 36 INFO     duration:0.07328581809997559 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:21,163 interview.performance 36 INFO     duration:0.0762174129486084 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:58:27,011 interview.performance 36 INFO     duration:0.14168596267700195 url:/admin/jobs/resume/2/change/ parameters:{}
+2022-09-13 16:58:28,172 interview.performance 36 INFO     duration:0.07230973243713379 url:/admin/jobs/resume/ parameters:{}
+2022-09-13 16:59:54,239 interview.performance 36 INFO     duration:0.2579653263092041 url:/admin/django_celery_beat/periodictask/19/change/ parameters:{}
+2022-09-13 16:59:56,978 interview.performance 36 INFO     duration:0.09575986862182617 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 17:02:13,003 interview.performance 36 INFO     duration:0.6395106315612793 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 17:02:13,224 interview.performance 36 INFO     duration:0.2061774730682373 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2022-09-13 17:02:13,263 interview.performance 36 INFO     duration:0.010748624801635742 url:/admin/jsi18n/ parameters:{}

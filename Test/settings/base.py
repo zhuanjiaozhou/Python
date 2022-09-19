@@ -31,6 +31,10 @@ ALLOWED_HOSTS = [ ]
 # Application definition
 
 INSTALLED_APPS = [
+    # 'grappelli',
+    'simpleui',
+    'django_bootstrap5',
+    'registration',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -38,14 +42,25 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_python3_ldap',
-    'jobs',
+    # 'jobs', ## 应用不能重复注册，下面一行是手工注册 JobConfig
+    'jobs.apps.JobConfig',
     'interview',
+    'running',
+    'rest_framework',
+    'Test.apps.UniversalManagerApp',
+    'django_celery_beat',
+    
 ]
 
+# 注入在Django请求和响应处理流程中的钩子框架，能对request/response作处理
 MIDDLEWARE = [
+    # 'interview.performance.performance_logger_middleware',
+    'interview.performance.PerformanceAndExceptionLoggerMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.middleware.cache.UpdateCacheMiddleware',
     'django.middleware.common.CommonMiddleware',
+    'django.middleware.cache.FetchFromCacheMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
@@ -80,9 +95,18 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
-    }
+    },
+    'running': {
+            'ENGINE': 'django.db.backends.mysql', 
+            'NAME': 'running',                    
+            'USER': 'django',                      
+            'PASSWORD': '123456',                  
+            'HOST': '192.168.1.189',
+            'PORT': '3306',
+    },
 }
 
+DATABASE_ROUTERS = ['settings.router.DatabaseRouter']
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
@@ -121,7 +145,19 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = 'static'
 
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
+
+REST_FRAMEWORK = {
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
+}
 
 LOGGING = {
     'version': 1,
@@ -147,6 +183,12 @@ LOGGING = {
             'formatter': 'simple',
             'filename': os.path.join(os.path.dirname(BASE_DIR), 'recruitment.admin.log'),
         },
+        "performance": {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'formatter': 'simple',
+            'filename': os.path.join(os.path.dirname(BASE_DIR), 'recruitment.performance.log'),
+        },
     },
 
     'root': {
@@ -158,6 +200,12 @@ LOGGING = {
         'django_python3_ldap': {
             'handlers': ['console'],
             'level': 'DEBUG',
+        },
+
+        'interview.performance': {
+            'handlers': ['console', 'performance'],
+            'level': 'INFO',
+            'propagate': False,
         },
     },
 }
@@ -194,3 +242,9 @@ AUTHENTICATION_BACKENDS = {"django_python3_ldap.auth.LDAPBackend", "django.contr
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+REGISTRATION_OPEN = True
+LOGIN_REDIRECT_URL='/'
+SIMPLE_BACKEND_REDIRECT_URL = '/account/login/'
+ACCOUNT_AUTHENTICATED_REGISTRATION_REDIRECTS = False
+

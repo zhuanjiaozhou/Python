@@ -1,5 +1,16 @@
 {% extends 'base.html' %}
 
+{# Load the tag library #}
+{% load django_bootstrap5 %}
+
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+
+{# Display django.contrib.messages as Bootstrap alerts #}
+{% bootstrap_messages %}
+
+{{ csrf_token }}
 {%block content%}
     等你来，让我们用技术探索世界
 
